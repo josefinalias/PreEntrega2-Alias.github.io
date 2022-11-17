@@ -1,9 +1,3 @@
-h1#hola{
-    background-color: blue;
-}
-img.foto{
-    width: 150px;
-}
-p.parrafo{
-    color: blue;
+body#fondo{
+   background-color: aqua;
 }

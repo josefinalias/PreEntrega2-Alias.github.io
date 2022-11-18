@@ -6,3 +6,7 @@ div.card-header{
    color: antiquewhite;
 
 } */
+header#bg{
+   background-image: url(../images/fondoHome.jpg)
+   
+}

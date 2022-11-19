@@ -6,7 +6,15 @@ div.card-header{
    color: antiquewhite;
 
 } */
-header#bg{
-   background-image: url(../images/fondoHome.jpg)
-   
+body#bgc{
+   background-color: black;
 }
+header.bg{
+   height: 600px;
+   background-image:url(../images/fondoHome.jpg);
+   width: 100%;
+   background-repeat: no-repeat;
+}
+/* div.container{
+   height: 700px;
+} */

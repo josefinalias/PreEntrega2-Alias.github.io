@@ -1,6 +1,7 @@
 /* background colors */
 body#bgc{
    background-color: black;
+   font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px;
 }
 /* css del index */
 section.ff{

@@ -1,20 +1,16 @@
-/* body#fondo{
-   background-color: black;
-}
-div.card-header{
-   background-color: brown;
-   color: antiquewhite;
-
-} */
+/* background colors */
 body#bgc{
    background-color: black;
 }
+/* css del index */
+section.ff{
+   font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px;
+}
+/* css del home */
+
 header.bg{
    height: 600px;
    background-image:url(../images/fondoHome.jpg);
    width: 100%;
    background-repeat: no-repeat;
 }
-/* div.container{
-   height: 700px;
-} */

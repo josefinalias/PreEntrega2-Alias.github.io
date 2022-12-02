@@ -1,9 +1,64 @@
-/* background colors */
-body#bgc{
-   background-color: black;
-   font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 200; line-height: 26.4px;
-}
 /* css del index */
+body.bgc{
+   background-color: black;
+}
+
+section.inicio{
+   color: #B31431;
+   font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif; 
+   font-size: 24px; 
+   font-style: normal; 
+   font-variant: normal; 
+   font-weight: 700; 
+   line-height: 26.4px;;
+}
+ /* aca ver si puedo anidarlo en sass con mixin,sino cambiar el color, font size,etc */
+/* section p.lead{
+   color: antiquewhite;
+} */
+  form.radioBtn{
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 section.ff{
    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px;
 }
@@ -12,6 +67,15 @@ section.ff{
 header.bg{
    height: 600px;
    background-image:url(../images/fondoHome.jpg);
-   width: 100%;
    background-repeat: no-repeat;
+}
+
+/* footer .container{
+   overflow-y: auto;
+} */
+
+/* background colors */
+body#bgc{
+   background-color: black;
+   font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 200; line-height: 26.4px;
 }
